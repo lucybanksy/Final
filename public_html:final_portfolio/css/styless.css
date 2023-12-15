@@ -1,0 +1,75 @@
+.navbar-brand{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+
+h1{
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.5;
+    color: #ffffff;
+    padding-left: 100px;
+    padding-right: 500px;
+    padding-top: 60px;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+h4{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-weight: lighter;
+    padding-left: 50px;
+}
+
+h5 {
+    font-family: 'Raleway', sans-serif;
+    color: #6ecad1;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.Headshot{
+    width: 25%;
+    border-radius: 10%;
+    margin:30px;
+ }
+
+#Values {
+    font-family: 'Libre Baskerville', serif;
+    padding: 100px;
+    text-align: center;
+}
+
+#TheDream {
+    font-family: 'Libre Baskerville', serif;
+    padding: 100px;
+    text-align: center;
+}
+
+#AbouttheAuthor {
+    font-family: 'Libre Baskerville', serif;
+    padding: 100px;
+    text-align: right;
+}
+
+#footer{ 
+    padding: 7% 15%;
+    text-align: center; 
+}
+
+.social-icon{
+    margin: 20px 10px;
+    color: #610C9F;
+}
+
+
+font-family: 'Libre Baskerville', serif;
+font-family: 'Raleway', sans-serif;
